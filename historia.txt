@@ -1,0 +1,7 @@
+¿No te funciona el comando code en tu terminal?
+
+Abre Visual Studio Code
+Presiona cmd + shift + p ó si estás en windows ctrl + shift + p
+Busca una opción que diga lo siguiente: Shell Command: Install 'code' command in $PATH
+Selecciónala
+Y listo, podrás utilizar dicho comando.
